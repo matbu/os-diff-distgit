@@ -54,5 +54,3 @@ rm -rf .gopath
 %{_bindir}/*
 
 %changelog
-* @date@ os-diff <noreply@redhat.com> - @version@
-- Automatic build for version @version@.
