@@ -1,8 +1,6 @@
-%global debug_package %{nil}
-
 Name: os-diff
-Version: @version@
-Release: 1%{?dist}
+Version: XXX
+Release: XXX
 Summary: Diff tool for Openstack and Openshift services configuration.
 License: ASL 2.0
 URL: https://github.com/openstack-k8s-operators/os-diff
